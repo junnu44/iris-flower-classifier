@@ -38,6 +38,8 @@ Run the app:
 streamlit run iris_app.py
 The app will open at http://localhost:8501/
 
+live app: https://iris-flower-classifier-5i8ivka8guehaufwkhalcd.streamlit.app/
+
 📁 Project Structure
 
 📦 iris-flower-classification
